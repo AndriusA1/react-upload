@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AndriusA1/react-upload.git/static/css/main.f76a56a0.css",
+    "main.js": "/AndriusA1/react-upload.git/static/js/main.368fe2ce.js",
+    "static/js/787.385eb0f9.chunk.js": "/AndriusA1/react-upload.git/static/js/787.385eb0f9.chunk.js",
+    "index.html": "/AndriusA1/react-upload.git/index.html",
+    "main.f76a56a0.css.map": "/AndriusA1/react-upload.git/static/css/main.f76a56a0.css.map",
+    "main.368fe2ce.js.map": "/AndriusA1/react-upload.git/static/js/main.368fe2ce.js.map",
+    "787.385eb0f9.chunk.js.map": "/AndriusA1/react-upload.git/static/js/787.385eb0f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f76a56a0.css",
+    "static/js/main.368fe2ce.js"
+  ]
+}
